@@ -23,13 +23,19 @@ The Tripduration needed to be converted from an integer that represented seconds
  The Tableau story begins with a pie chart of the breakdown by gender of the riders.  Each additional page will build on how gender is an influencer in who uses the bikes and when.  We can see that while there are some unknown genders of riders the overall majority of riders is male. <br>
  #### Checkout Times for Users
   <img src="screenshots/checkout_times.png" width="660" height="500"><br>
+  The checkout times by user gives an overall look at how long a rider rides a CitiBike.  In general this graph shows that most rides are less then one hour.
 #### Checkout Times by Gender
 <img src="screenshots/checkout_gender.png" width="660" height="500"><br>
+Here we see that at the peak where riders ride for 5 minutes for every 1 female rider there are approximately 3 male riders.
 #### August Peak Hours
 <img src="screenshots/peak_hours.png" width="660" height="500"><br>
+By looking at the breakdown by hour of riders we see that the bikes are rented most between 6 - 10 am and 4 -7 pm.  This makes sense in any city that people will be commuting to and from work at these hours and the bike is a good form of transportation in the city of New York.
 #### Trips by Weekday per Hour 
 <img src="screenshots/weekday.png" width="660" height="500"><br>
+The heatmap visualization helps to confirm what was seen in the bar chart.  The darker red represents the hours when bikes are most used and early morning and evening hours as well as weekends are prime time.
 #### Trips by Gender by Weekday 
 <img src="screenshots/weekday_gender.png" width="660" height="500"><br>
+This heatmap goes on to show that it is primarly the males that rent bikes but it also helps us see that female riders are also most active during peak hours.
 #### User Trips by Gender by Weekday
+Finally this breakdown shows that Thursday and Friday are the busiest days for male subscribers.  This also helps us see that male riders tend to be subscribers.
 <img src="screenshots/trips_gender.png" width="660" height="500"><br>
